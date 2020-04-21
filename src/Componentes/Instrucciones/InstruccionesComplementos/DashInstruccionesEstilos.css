@@ -1,0 +1,24 @@
+.root {
+    flex-grow: 1;
+    max-height: 1200px;
+    overflow: hidden;
+    background-image: url("../../../imagenes/fondoInstrucc.svg");
+    background-size: "cover";
+    background-position: 0px;
+    padding-bottom: 500px;
+  }
+
+.grid {
+    width: 1200px;
+    direction: row;
+    align-items: center;
+    padding: 50px;
+    height: 50px;  
+    justify-items: center;
+  }
+
+.titulo  {
+    color: #ffd646;
+    margin: 0px;
+   
+  }

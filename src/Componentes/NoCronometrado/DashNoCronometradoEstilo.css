@@ -1,0 +1,17 @@
+
+
+.grid {
+    width: 1200px;
+    direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    height: 500px;
+    
+    
+  }
+
+h1  {
+    color: "#4328B8", 
+
+  }
